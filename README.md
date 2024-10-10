@@ -24,6 +24,12 @@ npm install
 
 To run the scraper, execute the following command in your terminal:
 
+For the Countdown website:
 ```bash
 node scrapeCountdown.js
+```
+
+For the PNS website:
+```bash
+node scrapePNS.js
 ```
