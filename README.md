@@ -17,3 +17,13 @@ To install the necessary dependencies, run the following command in your termina
 
 ```bash
 npm install
+
+```
+
+## Usage
+
+To run the scraper, execute the following command in your terminal:
+
+```bash
+node scrapeCountdown.js
+```
